@@ -28,7 +28,6 @@ For this demo, I created one public repository called `gh-advanced-security` and
 
 ![Screenshot 2024-08-22 230057](https://github.com/user-attachments/assets/50221d4e-ad4c-408e-8e0a-816a53b679b0)
 
-
 Let's push some code that contains a secret key to the repository. I have one sample file called `alertmanager.yml` that contains Slack webhook URL. If you don't know what `alertmanager.yml` is, it is a configuration file for the Alertmanager tool. Alertmanager is a tool that is used to send alerts to different platforms like Slack, Email, etc. and it requires a webhook URL to send alerts to Slack. Here `Webhook URL` is the secret key that we need to secure. You can assume the `Webhook URL` is equivalent to the AWS Access Key and Secret Key.
 
 Let's push this file to the repository and see how secret scanning works.
