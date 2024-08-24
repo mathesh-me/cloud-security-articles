@@ -110,3 +110,6 @@ Follow the below steps to check the available advanced security features for you
 ![Screenshot 2024-08-22 235703](https://github.com/user-attachments/assets/c7c1c71a-a7ce-40f1-b9e6-a86a4ef91785)
 
 ![Screenshot 2024-08-22 235826](https://github.com/user-attachments/assets/1efc47ef-5365-4fda-ac8d-6178b3fe5dd2)
+
+
+You can know more about [Secret Scanning](https://docs.github.com/en/code-security/secret-security/about-secret-scanning) here.
