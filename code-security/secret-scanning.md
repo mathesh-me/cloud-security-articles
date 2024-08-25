@@ -14,7 +14,7 @@ Also, there is a concept called Secret Scanning Partner program. GitHub has part
 
 ### How to enable Secret Scanning?
 
-As I mentioned earlier, secret scanning is enabled by default for all public repositories. For Private repositories, you can't enable secret scanning(I read some articles from GitHub and didn't found anything for Private Repositories, If you find any, Please create a PR with the Reference Link). Once enabled, GitHub will scan your private repositories for exposed secrets and notify you about the exposed secrets immediately.
+As I mentioned earlier, secret scanning is enabled by default for all public repositories. For Private repositories, you can't enable secret scanning for Individual Accounts Private Repositories. But Organizations using GitHub Enterprise Cloud with a license for GitHub Advanced Security can also enable secret scanning alerts for users on their private and internal repositories. Once enabled, GitHub will scan your private repositories for exposed secrets and notify you about the exposed secrets immediately.
 
 If you navigate into `Security` Section of your Repository. You can find the Secret Scanning Alerts
 
