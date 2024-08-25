@@ -12,7 +12,7 @@ We know that Code Scanning uses CodeQL to scan the code. But how does CodeQL wor
 
 ### Who can use this feature?
 
-Code Scanning is available for all public repositories. Fior private repositories, Code Scanning is available for Organizations that have GitHub Enterprise Cloud and have GitHub Advanced Security.<br>
+Code Scanning is available for all public repositories. For private repositories, Code Scanning is available for Organizations that have GitHub Enterprise Cloud and have GitHub Advanced Security.<br>
 
 For Individual Accounts:
 
