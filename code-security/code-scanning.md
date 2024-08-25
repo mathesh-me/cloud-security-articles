@@ -18,7 +18,6 @@ For Individual Accounts:
 
 ![Screenshot 2024-08-25 141106](https://github.com/user-attachments/assets/11991bd4-c532-413a-a6c6-ccfdea1321b0)
 
-
 ### Sample Code for Code Scanning
 
 I have created a sample repository called `gh-advanced-security` and I am going to push the below code that contains a vulnerability to the repository and will enable Code Scanning for the repository. Let's see how Code Scanning works.
