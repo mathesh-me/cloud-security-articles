@@ -148,4 +148,10 @@ You can disable Code Scanning for your repository by following the below steps:
 3. If you scroll down, you can see the `Code scanning` section.
 4. Click on the `...` button and then click on the `Disable CodeQL` button to disable Code Scanning for your repository.
 
+### Third-Party Code Scanning Tools
+
+We can also integrate third-party code scanning tools with GitHub Code Scanning. But the constraint is that the third-party code scanning tools should output Static Analysis Results Interchange Format (SARIF) data. SARIF is an open standard. We can run third-party analysis tools within GitHub using actions or within an external CI system.
+
+**Note:** This is just a Introduction to Code Scanning. There is a lot we can do with Code Scanning like Customizing the Code Scanning Configuration, Adding more tools to the Code Scanning workflow, Using Third-Party Code Scanning tools, etc. If you want me to cover those topics, please let me know in LinkedIn or in Medium Page.
+
 For more information on Code Scanning, you can refer to the [official documentation](https://docs.github.com/en/code-security/code-scanning).
