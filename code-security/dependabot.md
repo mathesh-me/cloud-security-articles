@@ -137,3 +137,6 @@ To disable Dependabot alerts for your repository, follow these steps:
 ![Screenshot 2024-09-09 225004](https://github.com/user-attachments/assets/a78d5bc2-60c9-4c0f-a6f2-425f1ca32508)
 
 Now you can see that I have disabled Dependabot alerts for the repository. Once we disable Dependabot alerts, it will stop checking for outdated packages and dependencies in the codebase and creating pull requests to update them.
+
+
+For more information on Dependabot, you can refer to the official documentation [here](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/about-dependabot-version-updates).
