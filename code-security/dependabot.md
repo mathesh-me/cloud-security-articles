@@ -140,3 +140,5 @@ Now you can see that I have disabled Dependabot alerts for the repository. Once 
 
 
 For more information on Dependabot, you can refer to the official documentation [here](https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/about-dependabot-version-updates).
+
+Follow me on [Medium](https://medium.com/@mathesh-me) for more Cloud and DevSecOps related articles.
